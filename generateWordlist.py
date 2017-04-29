@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-# Run the program and follow the instructions, 
+# Run the program and follow the instructions. Run it : echo "the word you want" | python generateWordlist.py | sort | uniq > outputfile.txt 
 import sys
 
 specialChars = ["@","\"","\'", "(",")","$","*","&","?","_","-","!"]
